@@ -1,0 +1,4 @@
+break *0x400ad7
+break KeySchedule.c:10
+break KeySchedule.c:20
+
