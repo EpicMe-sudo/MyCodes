@@ -1,0 +1,8 @@
+saber attack point
+1. AES_ctr mode => 반복횟수가 너무 적음 4회,,,
+2. polynomial multiplication
+=> 마스킹이 안된 상태에서
+
+=> 마스킹이 된 상태에서
+
+3. centered binomial distribution 공격
